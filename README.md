@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-После сборки проект должен быть доступен по адреса
+После сборки проект должен быть доступен по адресу
 http://localhost:8080
 
 ### Customize configuration
